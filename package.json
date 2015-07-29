@@ -1,0 +1,28 @@
+{
+    "name": "basic-folder-structure-with-expressjs",
+    "version": "1.0.0",
+    "description": "The purpose for this repository is to serve as a base project for your next Node and Express web app. Clone it and you are ready to go.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codeofnodejs/basic-folder-structure-with-expressjs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.12.3",
+        "express": "^4.12.3",
+        "jade": "^1.9.2"
+    },
+    "devDependencies": {
+        "mocha": "^2.2.4",
+        "should": "^6.0.1"
+    },
+    "bugs": {
+        "url": "https://github.com/codeofnodejs/basic-folder-structure-with-expressjs/issues"
+    },
+    "homepage": "https://github.com/codeofnodejs/basic-folder-structure-with-expressjs#readme"
+}
